@@ -22,7 +22,7 @@ Before running the project, make sure you have **Python 3.x** installed and acti
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/username/better-pronunciation.git
+git clone https://github.com/akimabs/better-pronunciation.git
 cd better-pronunciation
 ```
 
