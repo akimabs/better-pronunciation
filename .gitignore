@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+model/*
+recorded_audio.wav
+*.zip
+vosk-model-en-us-0.22.zip
+voice

@@ -1,0 +1,10 @@
+numpy
+sounddevice
+soundfile
+vosk
+textblob
+requests
+urllib3==1.26.16
+termcolor
+pydub
+python-dotenv
