@@ -1,5 +1,7 @@
 # Terminal Based Speech Pronunciation Trainer
 
+![alt text](https://raw.githubusercontent.com/akimabs/better-pronunciation/refs/heads/main/demo.gif "Demo")
+
 ## 📌 Description
 
 This project is a **Terminal Based Speech Pronunciation Trainer** that uses **Vosk** for speech-to-text transcription, **Google Gemini API** for conversation simulation. The system helps users improve their English pronunciation by engaging in interactive conversations and providing real-time feedback on their pronunciation.
