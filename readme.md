@@ -38,7 +38,7 @@ source venv/bin/activate
 ##### Windows
 
 ```bash
-python -m venv pronunciation_better
+python -m venv venv
 venv\Scripts\activate
 ```
 
